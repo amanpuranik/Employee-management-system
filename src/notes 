@@ -1,0 +1,14 @@
+notes:
+
+this will be an fx application
+
+scene = physical contents of a java stage
+stage = the actual window of the java application
+
+enum = a type of class that only represents a group of constants
+
+exception = disruption of the normal flow of a programs instructions
+
+finally = block of code in a finally executes after a try and catch
+
+56:21
